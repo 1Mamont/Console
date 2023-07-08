@@ -1,0 +1,15 @@
+C:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\bin\Debug\net6.0\Example001_HtlloConsole.exe
+C:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\bin\Debug\net6.0\Example001_HtlloConsole.deps.json
+C:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\bin\Debug\net6.0\Example001_HtlloConsole.runtimeconfig.json
+C:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\bin\Debug\net6.0\Example001_HtlloConsole.dll
+C:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\bin\Debug\net6.0\Example001_HtlloConsole.pdb
+C:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\obj\Debug\net6.0\Example001_HtlloConsole.csproj.AssemblyReference.cache
+C:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\obj\Debug\net6.0\Example001_HtlloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\obj\Debug\net6.0\Example001_HtlloConsole.AssemblyInfoInputs.cache
+C:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\obj\Debug\net6.0\Example001_HtlloConsole.AssemblyInfo.cs
+C:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\obj\Debug\net6.0\Example001_HtlloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\obj\Debug\net6.0\Example001_HtlloConsole.dll
+C:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\obj\Debug\net6.0\refint\Example001_HtlloConsole.dll
+C:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\obj\Debug\net6.0\Example001_HtlloConsole.pdb
+C:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\obj\Debug\net6.0\Example001_HtlloConsole.genruntimeconfig.cache
+C:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\obj\Debug\net6.0\ref\Example001_HtlloConsole.dll
