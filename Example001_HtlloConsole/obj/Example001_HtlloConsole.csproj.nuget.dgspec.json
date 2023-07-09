@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "c:\\Users\\Ivoo\\Desktop\\Exsamples\\Example001_HtlloConsole\\Example001_HtlloConsole.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "c:\\Users\\Ivoo\\Desktop\\Exsamples\\Example001_HtlloConsole\\Example001_HtlloConsole.csproj",
         "packagesPath": "C:\\Users\\Ivoo\\.nuget\\packages\\",
         "outputPath": "c:\\Users\\Ivoo\\Desktop\\Exsamples\\Example001_HtlloConsole\\obj\\",
+=======
+    "C:\\Users\\Ivoo\\Desktop\\Exsamples\\Example001_HtlloConsole\\Example001_HtlloConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ivoo\\Desktop\\Exsamples\\Example001_HtlloConsole\\Example001_HtlloConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ivoo\\Desktop\\Exsamples\\Example001_HtlloConsole\\Example001_HtlloConsole.csproj",
+        "projectName": "Example001_HtlloConsole",
+        "projectPath": "C:\\Users\\Ivoo\\Desktop\\Exsamples\\Example001_HtlloConsole\\Example001_HtlloConsole.csproj",
+        "packagesPath": "C:\\Users\\Ivoo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ivoo\\Desktop\\Exsamples\\Example001_HtlloConsole\\obj\\",
+>>>>>>> a8e6bcc3fcdd0b79b4a3931951581441059b9cf9
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ivoo\\AppData\\Roaming\\NuGet\\NuGet.Config"

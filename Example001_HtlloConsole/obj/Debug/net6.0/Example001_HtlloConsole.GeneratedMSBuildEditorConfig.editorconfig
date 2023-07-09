@@ -7,4 +7,8 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Example001_HtlloConsole
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\
+=======
+build_property.ProjectDir = C:\Users\Ivoo\Desktop\Exsamples\Example001_HtlloConsole\
+>>>>>>> a8e6bcc3fcdd0b79b4a3931951581441059b9cf9
